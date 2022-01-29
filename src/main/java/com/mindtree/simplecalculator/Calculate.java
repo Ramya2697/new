@@ -10,7 +10,7 @@ public class Calculate {
 		return x-y;
 	}
 	public static void main(String[] args) {
-		int x=100;
+		int x=150;
 		int y=50;
 		System.out.println(add(x,y));
 		System.out.println(subtract(x,y));
